@@ -1,8 +1,8 @@
 {
-  "name": "babel",
+  "name": "babel-example",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "babel": "babel src -d dist"
   },
