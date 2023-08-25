@@ -1,6 +1,2 @@
-defaults
-chrome >= 80
-opera >= 67
-firefox >= 75
-safari >= 12
-edge >= 18
+> 0.1%
+not dead
