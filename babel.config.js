@@ -1,11 +1,11 @@
-module.exports = function primaryConfig(api) {
+export default function primaryConfig(api) {
 	api.cache(true)
 
 	const presets = [
 		[
 			"@babel/preset-env", {
 				useBuiltIns: 'usage',
-				corejs: "3.32"
+				corejs: "3.38"
 			}
 		]
 	];
