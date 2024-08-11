@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": ">= 20.16.0",
+    "npm": ">= 10.8.1"
+  },
   "scripts": {
     "babel": "babel src -d dist"
   },
